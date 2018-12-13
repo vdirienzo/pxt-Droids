@@ -1,7 +1,7 @@
 {
-    "name": "droids",
+    "name": "Droids Academia",
     "version": "0.0.1",
-    "description": "這是專為測試用的micro:bit積木",
+    "description": "Bloque de sensores para micro:bit desarrollados por Droids Academia",
     "license": "MIT",
     "dependencies": {
         "core": "*"
